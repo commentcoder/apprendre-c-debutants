@@ -4,8 +4,7 @@ Lien vers la vidéo :
 - [Apprendre C en 1 heure - Cours pour les débutants en C](https://www.youtube.com/watch?v=q6FcVUFM42o)
 
 💾 Vous n'avez pas encore d'éditeur de code ou compilateur ?
-
-👉 Installer C (éditeur, terminal, compilateur) : https://www.youtube.com/watch?v=wNsA4K3382k
+- Installer C (éditeur, terminal, compilateur) : https://www.youtube.com/watch?v=wNsA4K3382k
 
 ---
 
